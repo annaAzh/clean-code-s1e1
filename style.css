@@ -2,7 +2,7 @@
 .main {
   background-color: #f8f8f8;
   color: #333;
-  font-family: lato, sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 .matrix__inner {
@@ -17,7 +17,7 @@
 }
 
 .matrix__link {
-  font-family: fantasy, cursive;
+  font-family: "Papyrus", fantasy; 
 }
 
 @media (max-width: 768px) {
@@ -72,7 +72,7 @@
   color: #888;
   font-size: 15px;
   width: 60px;
-  font-family: lato, sans-serif;
+  font-family: "Lato", sans-serif;
   cursor: pointer;
 }
 
@@ -102,7 +102,7 @@
   border: 1px solid #ddd;
   background: #fff;
   border-radius: 6px;
-  font-family: lato, sans-serif;
+  font-family: "Lato", sans-serif;
   color: #888;
 }
 
